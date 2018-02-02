@@ -1,0 +1,17 @@
+↑↓	↑↓
+CC	34
+WW	31
+VV	30
+LL	18
+FF	14
+XX	7
+JJ	5
+KK	5
+GG	4
+EE	4
+AA	4
+YY	3
+PP	2
+ZZ	1
+BB	1
+#15
